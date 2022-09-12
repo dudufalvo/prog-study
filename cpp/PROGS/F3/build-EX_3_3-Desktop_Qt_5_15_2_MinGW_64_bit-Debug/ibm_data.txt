@@ -1,0 +1,18 @@
+NAME: EDUARDO
+                                                    WEIGHT: 60.00
+                                                                 BMI: 20.76
+NAME: PADOVESE
+                                                    WEIGHT: 85.00
+                                                                 BMI: 24.84
+NAME: MARIA
+                                                    WEIGHT: 60.00
+                                                                 BMI: 22.04
+NAME: NICOLE
+                                                    WEIGHT: 60.00
+                                                                 BMI: 20.76
+NAME: GARIEL
+                                                    WEIGHT: 70.00
+                                                                 BMI: 21.60
+NAME: GIULIA
+                                                    WEIGHT: 60.00
+                                                                 BMI: 20.76
