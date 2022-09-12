@@ -1,0 +1,14 @@
+/*=============================================================== 
+ FOLHA 2 - EXERCICIO 10                   
+ * Autor: Eduardo Rocha Falvo                     Data:2021/10/18
+ * Objetivo: DemonstraÃ§Ã£o de um programa simples (1)
+ * UtilizaÃ§Ã£o: Execute que a mensagem aparece
+===============================================================*/
+
+Quando uma varíavel  ́e definida e declarada dentro da funç̃ao main 
+fica com que valor (zero, um, positivo, negativo ou um valor qualquer)?
+
+RESPOSTA: CASO NA DECLARAÇÃO O UTILIZADOR JA APRESENTE UM VALOR INICIAL
+PARA A VARIÁVEL, O COMPILADOR O ATRIBUI ANTES DE RODAR A EXECUÇÃO. JA´,
+CASO UM VALOR NÃO SEJA PRÉ ATRIBUÍDO A VARIÁVEL, ESSA RECEBE UM VALOR
+ALEATÓRIO, SÓ OCUPANDO ESPAÇO NA MEMÓRIA.

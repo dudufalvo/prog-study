@@ -1,0 +1,18 @@
+/*=============================================================== 
+ FOLHA 2 - EXERCICIO 7                  
+ * Autor: Eduardo Rocha Falvo                     Data:2021/10/18
+ * Objetivo: Análise de nomes de variáveis
+ * UtilizaÃ§Ã£o: Indique os nomes de variáves válidos e inválidos
+===============================================================*/
+
+(a) VÁLIDO - MAS O TRADICIONAL É O USO DE MINÚSCULAS PARA VARIÁVEIS E MAIÚSCULAS PARA CONSTANTES SIMBÓLICAS
+(b) VÁLIDO
+(c) INVÁLIDO - O PRIMEIRO CARACTER DEVE SER UMA LETRA
+(d) INVÁLIDO - O PRIMEIRO CARACTER DEVE SER UMA LETRA
+(e) INVÁLIDO - SINAL OPERADOR
+(f) INVÁLIDO - USO DE CARACTER RESERVADO
+(g) INVÁLIDO - PALAVRA-CHAVE RESERVADA
+(h) VÁLIDO
+(i) INVÁLIDO - ESPAÇO ENTRE CARACTERES
+(j) VÁLIDO
+(k) INVÁLIDO - SINAL OPERADOR
